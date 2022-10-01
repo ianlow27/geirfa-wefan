@@ -1,0 +1,220 @@
+!Alffa Centauri	nm	Alpha Centauri	``220929	_^astronomeg
+!Cwmwl Oort	nm	Oort cloud	``220929	_^astronomeg
+!Daear	nm	Earth	``220929	_^astronomeg
+!Diagram H-R	nm	H-R diagram	``220929	_^astronomeg
+!Gleiniau Bailey	nf	Baileys beads	``220929	_^astronomeg
+!Gwregys Kuiper	nf	Kuiper belt	``220929	_^astronomeg
+!Gwregys Van Allen	nf	Van Allen belt	``220929	_^astronomeg
+!Hafaliad Drake	nm	Drake equation	``220929	_^astronomeg
+!Iau	nm	Jupiter	``220929	_^astronomeg
+!Llwybr Llaethog	nm	Milky Way	``220929	_^astronomeg
+!Mawrth	nm	Mars	``220929	_^astronomeg
+!Mercwri	nm	Mercury	``220929	_^astronomeg
+!Neifion	nm	Neptune	``220929	_^astronomeg
+!Plwton	nm	Pluto	``220929	_^astronomeg
+!Pwyntiau lagrange	nm	Lagrange points	``220929	_^astronomeg
+!Sadwrn	nm	Saturn	``220929	_^astronomeg
+!Sifft Doppler	nf	Doppler shift	``220929	_^astronomeg
+!Telesgop Hubble	nm	Hubble telescope	``220929	_^astronomeg
+!Wranws	nm	Uranus	``220929	_^astronomeg
+!allblaned	nf	exoplanet	``220929	_^astronomeg
+!allgalactig	nm	extragalactic	``220929	_^astronomeg
+!apogei	nf	apogee	``220929	_^astronomeg
+!archwilio'r gofod	nm	space exploration	``220929	_^astronomeg
+!asteriaeth	nm	asterism	``220929	_^astronomeg
+!awyren yr ecliptic	nm	plane of the ecliptic	``220929	_^astronomeg
+!blaned gorrach	nm	dwarf planet	``220929	_^astronomeg
+!bolomedr	nm	bolometer	``220929	_^astronomeg
+!braich leol	nm	local arm	``220929	_^astronomeg
+!bylchau Kirkwood	nm	Kirkwood gaps	``220929	_^astronomeg
+!cawod meteor	nm	meteor shower	``220929	_^astronomeg
+!cawr gwyn	nm	white giant	``220929	_^astronomeg
+!cawr nwy	nm	gas giant	``220929	_^astronomeg
+!cawr rhew	nf	ice giant	``220929	_^astronomeg
+!chwarter lleuad	nm	quarter moon	``220929	_^astronomeg
+!chwiliwr	nm	probe	``220929	_^astronomeg
+!ciloparsec	nf	kiloparsec	``220929	_^astronomeg
+!clwstwr byd-eang	nm	globular cluster	``220929	_^astronomeg
+!corff du	nm	black body	``220929	_^astronomeg
+!corrach coch	nm	red dwarf	``220929	_^astronomeg
+!corrach gwyn	nm	white dwarf	``220929	_^astronomeg
+!corrach melyn	nm	yellow dwarf	``220929	_^astronomeg
+!cosmoleg	nf	cosmology	``220929	_^astronomeg
+!cwasar	nm	quasar	``220929	_^astronomeg
+!cwymp rhydd	nm	free fall	``220929	_^astronomeg
+!cyfanrwydd	nm	totality	``220929	_^astronomeg
+!cyflymder dianc	nm	escape velocity	``220929	_^astronomeg
+!cyfnod	nm	phase	``220929	_^astronomeg
+!cyfraith Hubble	nm	Hubbles law	``220929	_^astronomeg
+!cyhydedd nefol	nm	celestial equator	``220929	_^astronomeg
+!cyhydnos y gwanwyn	nm	vernal equinox	``220929	_^astronomeg
+!cysawd yr haul	nm	solar system	``220929	_^astronomeg
+!cysonyn disgyrchiant	nm	gravitational constant	``220929	_^astronomeg
+!daearol	nm	earthbound	``220929	_^astronomeg
+!damcaniaeth y glec fawr	nm	big bang theory	``220929	_^astronomeg
+!deddfau Kepler	nf	Keplers laws	``220929	_^astronomeg
+!diffyg pwysau	nm	weightlessness	``220929	_^astronomeg
+!eccentricity orbital	nm	orbital eccentricity	``220929	_^astronomeg
+!eclips llwyr	nm	total eclipse	``220929	_^astronomeg
+!eclips rhannol	nm	partial eclipse	``220929	_^astronomeg
+!esgyniad cywir	nm	right ascension	``220929	_^astronomeg
+!fflachiad	nm	flare	``220929	_^astronomeg
+!geosefydlog	nm	geostationary	``220929	_^astronomeg
+!gofod dwfn	nm	deep space	``220929	_^astronomeg
+!gogwydd orbitol	nm	orbital inclination	``220929	_^astronomeg
+!golau-blwyddyn	nm	light-year	``220929	_^astronomeg
+!gorwel digwyddiad	nm	event horizon	``220929	_^astronomeg
+!grym Coriolis	nm	Coriolis force	``220929	_^astronomeg
+!grŵp lleol	nm	local group	``220929	_^astronomeg
+!gwarchodwr	nm	apastron	``220929	_^astronomeg
+!gwynt solar	nm	solar wind	``220929	_^astronomeg
+!hanner lleuad	nm	half moon	``220929	_^astronomeg
+!heliwm	nm	helium	``220929	_^astronomeg
+!hynodrwydd	nm	singularity	``220929	_^astronomeg
+!hypernofa	nm	hypernova	``220929	_^astronomeg
+!ionosffer	nf	ionosphere	``220929	_^astronomeg
+!lens disgyrchiant	nm	gravitational lens	``220929	_^astronomeg
+!lleuad cilgant	nm	crescent moon	``220929	_^astronomeg
+!lleuad gibbous	nm	gibbous moon	``220929	_^astronomeg
+!llwch rhyngserol	nm	interstellar dust	``220929	_^astronomeg
+!maint gweledol	nm	visual magnitude	``220929	_^astronomeg
+!mater tywyll	nm	dark matter	``220929	_^astronomeg
+!meteoryn	nm	meteorite	``220929	_^astronomeg
+!modrwyau	nm	rings	``220929	_^astronomeg
+!nebula planedol	nm	planetary nebula	``220929	_^astronomeg
+!newydd	nm	nova	``220929	_^astronomeg
+!nodiant gwyddonol	nm	scientific notation	``220929	_^astronomeg
+!ochrol	nm	sidereal	``220929	_^astronomeg
+!orbit eliptig	nm	elliptical orbit	``220929	_^astronomeg
+!orbit hyperbolig	nm	hyperbolic orbit	``220929	_^astronomeg
+!orsaf ofod	nm	space station	``220929	_^astronomeg
+!pelydr gama	nm	gamma ray	``220929	_^astronomeg
+!pelydrau cosmig	nm	cosmic rays	``220929	_^astronomeg
+!pelydrau-x	nm	x-rays	``220929	_^astronomeg
+!perigei	nf	perigee	``220929	_^astronomeg
+!planed leiaf	nm	minor planet	``220929	_^astronomeg
+!planedau allanol	nm	outer planets	``220929	_^astronomeg
+!planedau israddol	nm	inferior planets	``220929	_^astronomeg
+!planedau mewnol	nm	inner planets	``220929	_^astronomeg
+!planedau uwchraddol	nm	superior planets	``220929	_^astronomeg
+!planedoid	nm	planetoid	``220929	_^astronomeg
+!presesiwn	nm	precession	``220929	_^astronomeg
+!pylsar	nm	pulsar	``220929	_^astronomeg
+!rhyngserol	nm	interstellar	``220929	_^astronomeg
+!roced	nf	rocket	``220929	_^astronomeg
+!sbectrosgop	nm	spectroscope	``220929	_^astronomeg
+!sbectrwm	nm	spectrum	``220929	_^astronomeg
+!seren ddeuaidd	nm	binary star	``220929	_^astronomeg
+!seren ddwbl	nm	double star	``220929	_^astronomeg
+!seren gawr goch	nm	red giant star	``220929	_^astronomeg
+!seren gorrach	nm	dwarf star	``220929	_^astronomeg
+!seren newidiol	nm	variable star	``220929	_^astronomeg
+!seren niwtron	nm	neutron star	``220929	_^astronomeg
+!seren polyn	nm	pole star	``220929	_^astronomeg
+!seren saethu	nm	shooting star	``220929	_^astronomeg
+!seren y gogledd	nm	north star	``220929	_^astronomeg
+!seren yn disgyn	nm	falling star	``220929	_^astronomeg
+!shifft coch	nm	red shift	``220929	_^astronomeg
+!smotyn haul	nm	sunspot	``220929	_^astronomeg
+!synodig	nm	synodic	``220929	_^astronomeg
+!sysygy	nm	syzygy	``220929	_^astronomeg
+!telemetreg	nf	telemetry	``220929	_^astronomeg
+!telesgop	nm	telescope	``220929	_^astronomeg
+!terfyn Roche	nm	Roche limit	``220929	_^astronomeg
+!terfynydd	nm	terminator	``220929	_^astronomeg
+!tilt echelinol	nm	axial tilt	``220929	_^astronomeg
+!trawslunol	nm	translunar	``220929	_^astronomeg
+!trawsneptiwnaidd	nm	transneptunian	``220929	_^astronomeg
+!twll du	nm	black hole	``220929	_^astronomeg
+!uned seryddol	nm	astronomical unit	``220929	_^astronomeg
+!uwchnofa	nm	supernova	``220929	_^astronomeg
+!ymbelydredd cefndir	nm	background radiation	``220929	_^astronomeg
+XXX	nm	Deneb	``220929	_^astronomeg
+XXX	nm	Mir	``220929	_^astronomeg
+XXX	nm	NASA	``220929	_^astronomeg
+XXX	nm	Sputnik	``220929	_^astronomeg
+XXX	nm	Venus	``220929	_^astronomeg
+XXX	nm	albedo	``220929	_^astronomeg
+XXX	nm	aphelion	``220929	_^astronomeg
+XXX	nm	asteroid	``220929	_^astronomeg
+XXX	nm	azimuth	``220929	_^astronomeg
+XXX	nm	cislunar	``220929	_^astronomeg
+XXX	nm	corona	``220929	_^astronomeg
+XXX	nm	cosmonaut	``220929	_^astronomeg
+XXX	nm	cosmos	``220929	_^astronomeg
+XXX	nm	crater	``220929	_^astronomeg
+XXX	nm	flyby	``220929	_^astronomeg
+XXX	nm	gegenschein	``220929	_^astronomeg
+XXX	nm	geosynchronous	``220929	_^astronomeg
+XXX	nm	heliocentric	``220929	_^astronomeg
+XXX	nm	lens	``220929	_^astronomeg
+XXX	nm	meteoroid	``220929	_^astronomeg
+XXX	nm	muttnik	``220929	_^astronomeg
+XXX	nm	nadir	``220929	_^astronomeg
+XXX	nm	parallax	``220929	_^astronomeg
+XXX	nm	parsec	``220929	_^astronomeg
+XXX	nm	penumbra	``220929	_^astronomeg
+XXX	nm	perihelion	``220929	_^astronomeg
+XXX	nm	solar	``220929	_^astronomeg
+XXX	nm	umbra	``220929	_^astronomeg
+XXX	nm	wormhole	``220929	_^astronomeg
+adblaned, lloeren	nf	satellite	``220929	_^astronomeg
+adchwilio, chwyldroi, chywlo, trafnu, troi	nm	revolve	``220929	_^astronomeg
+alban	nm	equinox	``220929	_^astronomeg
+alban, heulorsaf	nm	solstice	``220929	_^astronomeg
+anegni	nm	inertia	``220929	_^astronomeg
+anterth	nm	zenith	``220929	_^astronomeg
+ar drai, gwendid	nm	waning	``220929	_^astronomeg
+arluched, corysgwr, ffawdd, fflau, fflöad, peleidriant, pleiniad, rhaiad, ysterlewyn	nm	radiation	``220929	_^astronomeg
+arsyllfa	nm	observatory	``220929	_^astronomeg
+atddodiad, cyfosodiad, erbyn, gwrth, gwrthosodiad, gwrthsaf, gwrthwynebiad, rhagawd	nm	opposition	``220929	_^astronomeg
+awyr, awyr, banwel, gwybren, wybr, wybren	nf	sky	``220929	_^astronomeg
+bagad, bagadu, bagwy, magwy, pwng, pwngo, pyngu, rhawol, swp	nm	cluster	``220929	_^astronomeg
+blaennewydd	nm	new moon	``220929	_^astronomeg
+boncaeth, clamp, clug, crynswth, llo, manad, mu, offeren, sob, talp, twysg, twysged	nf	mass	``220929	_^astronomeg
+byd, bydysawd, bydysawd, bydyssod, hollfyd	nm	universe	``220929	_^astronomeg
+caddug, diffyg, diffyg	nm	eclipse	``220929	_^astronomeg
+caseg, caseg, caseg, gwilog	nm	mare	``220929	_^astronomeg
+cau, gwag, gwagfa	nm	vacuum	``220929	_^astronomeg
+chwinciad	nm	twinkling	``220929	_^astronomeg
+chwylfa, rhodwedd, trogylch	nm	orbit	``220929	_^astronomeg
+comed	nf	comet	``220929	_^astronomeg
+crygeidwen, eirianrodd, galaeth	nm	galaxy	``220929	_^astronomeg
+cwyriad	nm	waxing	``220929	_^astronomeg
+cydsylltiad, cyfrwch, cyswllt, cysylltair, cysylltair	nm	conjunction	``220929	_^astronomeg
+cyrch, disgyrchiant, dwysder, dwyster, gwysg	nm	gravity	``220929	_^astronomeg
+cysawd	nm	constellation	``220929	_^astronomeg
+cythrudd	nm	perturbation	``220929	_^astronomeg
+daearol	nm	terrestrial	``220929	_^astronomeg
+disgyrchiant	nm	gravitation	``220929	_^astronomeg
+diwrnod, diwrnod, dwthwn, dydd, dydd, dydd, dyw	nm	day	``220929	_^astronomeg
+dwysder	nf	density	``220929	_^astronomeg
+ellain, ffaw, iesin, pefr, pelydrog	nm	radiant	``220929	_^astronomeg
+encyd, eng, enyd, gofod, gofod, hawg, ma, mân, meityn, plwc, swf, talm, tran, ysenyd, ysmeityn, yspaid	nm	space	``220929	_^astronomeg
+erlewyn, goruchionen, llewyrn, planad, tanwydyn	nm	meteor	``220929	_^astronomeg
+ffylor, lluwch, llwch, llwch, pylor	nm	dust	``220929	_^astronomeg
+gag, gorel, rhwyllyn	nm	aperture	``220929	_^astronomeg
+gofodwr	nm	astronaut	``220929	_^astronomeg
+gogwyddedigaeth	nm	declination	``220929	_^astronomeg
+gogwyddedigaeth, gogwyddiad, gohen, osgo, rhael, tueddiad	nm	inclination	``220929	_^astronomeg
+goruchiad, planed, planed, planed	nf	planet	``220929	_^astronomeg
+gwreichioniad	nm	scintillation	``220929	_^astronomeg
+haul, haul, haul, heulo, huan, huan, sul, tydain	nm	sun	``220929	_^astronomeg
+hidrogen, ulai	nm	hydrogen	``220929	_^astronomeg
+llawnlleuad, llawnlloer	nf	full moon	``220929	_^astronomeg
+lleuad, lleuad, lleuad, lloer, lloer	nf	moon	``220929	_^astronomeg
+lleuadawl, lloerawl	nm	lunar	``220929	_^astronomeg
+machludiad	nm	occultation	``220929	_^astronomeg
+maint	nm	magnitude	``220929	_^astronomeg
+nefol, wybrennol	nm	celestial	``220929	_^astronomeg
+nifwl	nm	nebula	``220929	_^astronomeg
+nwythas	nm	eccentricity	``220929	_^astronomeg
+rho^d, rhod, sidydd	nm	ecliptic	``220929	_^astronomeg
+se, seren, seren, sy	nm	star	``220929	_^astronomeg
+serliw	nm	starlight	``220929	_^astronomeg
+serofydd, seronydd, serydd, sywedydd	nm	astronomer	``220929	_^astronomeg
+seryddiaeth, seryddiaeth, sywed	nf	astronomy	``220929	_^astronomeg
+sidi, sidydd	nm	zodiac	``220929	_^astronomeg
+tonfedd	nm	wavelength	``220929	_^astronomeg
+trawdd	nm	transit	``220929	_^astronomeg
+twciad	nm	docking	``220929	_^astronomeg

@@ -1,0 +1,118 @@
+aderyn du	_lluniau	blackbird	``220930	_clugiaid
+aderyn y to	_lluniau	house sparrow	``220930	_clugiaid
+aderyn yr eira	_lluniau	starling	``220930	_clugiaid
+asgell fraith	_lluniau	chaffinch	``220930	_clugiaid
+bras y gogledd	_lluniau	lapland bunting	``220930	_clugiaid
+bras yr eira	_lluniau	snow bunting	``220930	_clugiaid
+bronfraith fochlwyd	_lluniau	grey-cheeked thrush	``220930	_clugiaid
+bronfraith las y graig	_lluniau	brych glas y graig	``220930	_clugiaid
+bronfraith y graig	_lluniau	brych y graig	``220930	_clugiaid
+bronfraith	_lluniau	song thrush	``220930	_clugiaid
+bronwen y dŵr	_lluniau	dipper	``220930	_clugiaid
+brych glas y graig	_lluniau	blue rock thrush	``220930	_clugiaid
+brych tywyll	_lluniau	dusky thrush	``220930	_clugiaid
+brych y coed	_lluniau	tresglen	``220930	_clugiaid
+brych y graig	_lluniau	rock thrush	``220930	_clugiaid
+brân dyddyn	_lluniau	carrion crow	``220930	_clugiaid
+brân goesgoch	_lluniau	chough	``220930	_clugiaid
+brân lwyd	_lluniau	hooded crow	``220930	_clugiaid
+cath-aderyn llwyd	_lluniau	grey catbird	``220930	_clugiaid
+cigfran	_lluniau	raven	``220930	_clugiaid
+clochdar y cerrig	_lluniau	stonechat	``220930	_clugiaid
+coch dan adain	_lluniau	redwing	``220930	_clugiaid
+coch dan-aden	_lluniau	coch dan adain	``220930	_clugiaid
+coch y berllan	_lluniau	bullfinch	``220930	_clugiaid
+corfronfraith	_lluniau	swainson's thrush	``220930	_clugiaid
+corhedydd gwyrddgefn	_lluniau	olive-backed pipit	``220930	_clugiaid
+corhedydd gyddfgoch	_lluniau	red-throated pipit	``220930	_clugiaid
+corhedydd melyn	_lluniau	tawny pipit	``220930	_clugiaid
+corhedydd y coed	_lluniau	tree pipit	``220930	_clugiaid
+corhedydd y graig	_lluniau	rock pipit	``220930	_clugiaid
+corhedydd y waun	_lluniau	meadow pipit	``220930	_clugiaid
+crec yr eithin	_lluniau	whinchat	``220930	_clugiaid
+cynffon sidan	_lluniau	waxwing	``220930	_clugiaid
+cynffonlas ystlysgoch	_lluniau	red-flanked bluetail	``220930	_clugiaid
+delor y cnau	_lluniau	nuthatch	``220930	_clugiaid
+dringwr bach	_lluniau	treecreeper	``220930	_clugiaid
+drudwen wridog	_lluniau	rose-coloured starling	``220930	_clugiaid
+drudwen	_lluniau	starling	``220930	_clugiaid
+drudwy	_lluniau	starling	``220930	_clugiaid
+dryw eurben	_lluniau	goldcrest	``220930	_clugiaid
+dryw fflamben	_lluniau	firecrest	``220930	_clugiaid
+dryw penfflamgoch	_lluniau	dryw fflamben	``220930	_clugiaid
+dryw	_lluniau	wren	``220930	_clugiaid
+ehedydd copog	_lluniau	crested lark	``220930	_clugiaid
+ehedydd llwyd	_lluniau	short-toed lark	``220930	_clugiaid
+ehedydd	_lluniau	skylark	``220930	_clugiaid
+eos fraith	_lluniau	thrush nightingale	``220930	_clugiaid
+eos fronfraith	_lluniau	thrush nightingale	``220930	_clugiaid
+eos	_lluniau	nightingale	``220930	_clugiaid
+euryn yr haf	_lluniau	tanagr yr haf	``220930	_clugiaid
+fireo llygatgoch	_lluniau	red-eyed vireo	``220930	_clugiaid
+golfan y mynydd	_lluniau	tree sparrow	``220930	_clugiaid
+groesbig adeinwen	_lluniau	two-barred crossbill	``220930	_clugiaid
+groesbig wenaden	_lluniau	two-barred crossbill	``220930	_clugiaid
+gwennol dingoch	_lluniau	red-rumped swallow	``220930	_clugiaid
+gwennol y bondo	_lluniau	house martin	``220930	_clugiaid
+gwennol y glennydd	_lluniau	sand martin	``220930	_clugiaid
+gwennol	_lluniau	swallow	``220930	_clugiaid
+gwybedog brith	_lluniau	pied flycatcher	``220930	_clugiaid
+gwybedog brongoch	_lluniau	red-breasted flycatcher	``220930	_clugiaid
+gwybedog mannog	_lluniau	spotted flycatcher	``220930	_clugiaid
+gwybedog y gwenyn	_lluniau	bee-eater	``220930	_clugiaid
+gylfinbraff	_lluniau	hawfinch	``220930	_clugiaid
+gylfindew brongoch	_lluniau	rose-breasted grosbeak	``220930	_clugiaid
+jac-y-do	_lluniau	jackdaw	``220930	_clugiaid
+ji-binc	_lluniau	chaffinch	``220930	_clugiaid
+llinos bengoch gyffredin	_lluniau	common redpoll	``220930	_clugiaid
+llinos bengoch leiaf	_lluniau	lesser redpoll	``220930	_clugiaid
+llinos frech	_lluniau	serin	``220930	_clugiaid
+llinos goch	_lluniau	common rosefinch	``220930	_clugiaid
+llinos werdd	_lluniau	greenfinch	``220930	_clugiaid
+llinos	_lluniau	linnet	``220930	_clugiaid
+llwyd y gwrych	_lluniau	dunnock	``220930	_clugiaid
+llwyd y mynydd	_lluniau	alpine accentor	``220930	_clugiaid
+malwr cnau	_lluniau	nutcracker	``220930	_clugiaid
+mwyalchen y mynydd	_lluniau	ring ouzel	``220930	_clugiaid
+mwyalchen	_lluniau	blackbird	``220930	_clugiaid
+nico	_lluniau	goldfinch	``220930	_clugiaid
+pila gwyrdd	_lluniau	siskin	``220930	_clugiaid
+pinc y mynydd	_lluniau	brambling	``220930	_clugiaid
+pioden	_lluniau	magpie	``220930	_clugiaid
+rholydd	_lluniau	roller	``220930	_clugiaid
+robin america	_lluniau	american robin	``220930	_clugiaid
+robin goch	_lluniau	robin	``220930	_clugiaid
+sgrech y coed	_lluniau	jay	``220930	_clugiaid
+siff-saff	_lluniau	chiffchaff	``220930	_clugiaid
+siglen felen	_lluniau	yellow wagtail	``220930	_clugiaid
+siglen fraith	_lluniau	pied wagtail	``220930	_clugiaid
+siglen lwyd	_lluniau	grey wagtail	``220930	_clugiaid
+socan eira	_lluniau	fieldfare	``220930	_clugiaid
+tanagr yr haf	_lluniau	summer tanager	``220930	_clugiaid
+telor aur	_lluniau	icterine warbler	``220930	_clugiaid
+telor brongoch	_lluniau	subalpine warbler	``220930	_clugiaid
+telor llygatgoch	_lluniau	fireo llygatgoch	``220930	_clugiaid
+telor mawr y cyrs	_lluniau	great reed warbler	``220930	_clugiaid
+telor penddu	_lluniau	blackcap	``220930	_clugiaid
+telor sardinia	_lluniau	sardinian warbler	``220930	_clugiaid
+telor y cyrs blyth	_lluniau	blyth's reed warbler	``220930	_clugiaid
+telor y cyrs	_lluniau	reed warbler	``220930	_clugiaid
+telor y dŵr	_lluniau	aquatic warbler	``220930	_clugiaid
+telor y gwerni	_lluniau	marsh warbler	``220930	_clugiaid
+telor yr helyg	_lluniau	willow warbler	``220930	_clugiaid
+telor yr hesg	_lluniau	sedge warbler	``220930	_clugiaid
+tingoch du	_lluniau	black redstart	``220930	_clugiaid
+tingoch	_lluniau	redstart	``220930	_clugiaid
+tinwen isabella	_lluniau	isabelline wheatear	``220930	_clugiaid
+tinwen y garn	_lluniau	wheatear	``220930	_clugiaid
+titw barfog	_lluniau	bearded tit	``220930	_clugiaid
+titw cynffon-hir	_lluniau	long-tailed tit	``220930	_clugiaid
+titw mawr	_lluniau	great tit	``220930	_clugiaid
+titw penddu	_lluniau	coal tit	``220930	_clugiaid
+titw pendil	_lluniau	penduline tit	``220930	_clugiaid
+titw tomos las	_lluniau	blue tit	``220930	_clugiaid
+titw'r helyg	_lluniau	willow tit	``220930	_clugiaid
+titw'r wern	_lluniau	marsh tit	``220930	_clugiaid
+tresglen	_lluniau	mistle thrush	``220930	_clugiaid
+ydfran	_lluniau	rook	``220930	_clugiaid
+ysgrech y coed	_lluniau	jay	``220930	_clugiaid

@@ -1,0 +1,118 @@
+aderyn du		blackbird	``	
+aderyn y to		house sparrow	``	
+aderyn yr eira		starling	``	
+asgell fraith		chaffinch	``	
+bras y gogledd		lapland bunting	``	
+bras yr eira		snow bunting	``	
+bronfraith fochlwyd		grey-cheeked thrush	``	
+bronfraith las y graig		brych glas y graig	``	
+bronfraith y graig		brych y graig	``	
+bronfraith		song thrush	``	
+bronwen y dŵr		dipper	``	
+brych glas y graig		blue rock thrush	``	
+brych tywyll		dusky thrush	``	
+brych y coed		tresglen	``	
+brych y graig		rock thrush	``	
+brân dyddyn		carrion crow	``	
+brân goesgoch		chough	``	
+brân lwyd		hooded crow	``	
+cath-aderyn llwyd		grey catbird	``	
+cigfran		raven	``	
+clochdar y cerrig		stonechat	``	
+coch dan adain		redwing	``	
+coch dan-aden		coch dan adain	``	
+coch y berllan		bullfinch	``	
+corfronfraith		swainson's thrush	``	
+corhedydd gwyrddgefn		olive-backed pipit	``	
+corhedydd gyddfgoch		red-throated pipit	``	
+corhedydd melyn		tawny pipit	``	
+corhedydd y coed		tree pipit	``	
+corhedydd y graig		rock pipit	``	
+corhedydd y waun		meadow pipit	``	
+crec yr eithin		whinchat	``	
+cynffon sidan		waxwing	``	
+cynffonlas ystlysgoch		red-flanked bluetail	``	
+delor y cnau		nuthatch	``	
+dringwr bach		treecreeper	``	
+drudwen wridog		rose-coloured starling	``	
+drudwen		starling	``	
+drudwy		starling	``	
+dryw eurben		goldcrest	``	
+dryw fflamben		firecrest	``	
+dryw penfflamgoch		dryw fflamben	``	
+dryw		wren	``	
+ehedydd copog		crested lark	``	
+ehedydd llwyd		short-toed lark	``	
+ehedydd		skylark	``	
+eos fraith		thrush nightingale	``	
+eos fronfraith		thrush nightingale	``	
+eos		nightingale	``	
+euryn yr haf		tanagr yr haf	``	
+fireo llygatgoch		red-eyed vireo	``	
+golfan y mynydd		tree sparrow	``	
+groesbig adeinwen		two-barred crossbill	``	
+groesbig wenaden		two-barred crossbill	``	
+gwennol dingoch		red-rumped swallow	``	
+gwennol y bondo		house martin	``	
+gwennol y glennydd		sand martin	``	
+gwennol		swallow	``	
+gwybedog brith		pied flycatcher	``	
+gwybedog brongoch		red-breasted flycatcher	``	
+gwybedog mannog		spotted flycatcher	``	
+gwybedog y gwenyn		bee-eater	``	
+gylfinbraff		hawfinch	``	
+gylfindew brongoch		rose-breasted grosbeak	``	
+jac-y-do		jackdaw	``	
+ji-binc		chaffinch	``	
+llinos bengoch gyffredin		common redpoll	``	
+llinos bengoch leiaf		lesser redpoll	``	
+llinos frech		serin	``	
+llinos goch		common rosefinch	``	
+llinos werdd		greenfinch	``	
+llinos		linnet	``	
+llwyd y gwrych		dunnock	``	
+llwyd y mynydd		alpine accentor	``	
+malwr cnau		nutcracker	``	
+mwyalchen y mynydd		ring ouzel	``	
+mwyalchen		blackbird	``	
+nico		goldfinch	``	
+pila gwyrdd		siskin	``	
+pinc y mynydd		brambling	``	
+pioden		magpie	``	
+rholydd		roller	``	
+robin america		american robin	``	
+robin goch		robin	``	
+sgrech y coed		jay	``	
+siff-saff		chiffchaff	``	
+siglen felen		yellow wagtail	``	
+siglen fraith		pied wagtail	``	
+siglen lwyd		grey wagtail	``	
+socan eira		fieldfare	``	
+tanagr yr haf		summer tanager	``	
+telor aur		icterine warbler	``	
+telor brongoch		subalpine warbler	``	
+telor llygatgoch		fireo llygatgoch	``	
+telor mawr y cyrs		great reed warbler	``	
+telor penddu		blackcap	``	
+telor sardinia		sardinian warbler	``	
+telor y cyrs blyth		blyth's reed warbler	``	
+telor y cyrs		reed warbler	``	
+telor y dŵr		aquatic warbler	``	
+telor y gwerni		marsh warbler	``	
+telor yr helyg		willow warbler	``	
+telor yr hesg		sedge warbler	``	
+tingoch du		black redstart	``	
+tingoch		redstart	``	
+tinwen isabella		isabelline wheatear	``	
+tinwen y garn		wheatear	``	
+titw barfog		bearded tit	``	
+titw cynffon-hir		long-tailed tit	``	
+titw mawr		great tit	``	
+titw penddu		coal tit	``	
+titw pendil		penduline tit	``	
+titw tomos las		blue tit	``	
+titw'r helyg		willow tit	``	
+titw'r wern		marsh tit	``	
+tresglen		mistle thrush	``	
+ydfran		rook	``	
+ysgrech y coed		jay	``	

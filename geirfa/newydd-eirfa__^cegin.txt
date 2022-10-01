@@ -1,0 +1,222 @@
+!Agorwr poteli	nm	bottle opener	``220930	_^cegin
+!Bin sbwriel	nf	trash can	``220930	_^cegin
+!Peiriant coffi	nm	coffee maker	``220930	_^cegin
+!Peiriant golchi llestri	nm	dishwasher	``220930	_^cegin
+!agorwr can	nm	can opener	``220930	_^cegin
+!amserydd wy	nm	egg timer	``220930	_^cegin
+!amserydd	nm	timer	``220930	_^cegin
+!bag sothach	nm	garbage bag	``220930	_^cegin
+!bagiau plastig	nm	plastic bags	``220930	_^cegin
+!bagiau sbwriel	nf	trash bags	``220930	_^cegin
+!basged fara	nm	bread basket	``220930	_^cegin
+!basged gwastraff	nm	waste basket	``220930	_^cegin
+!bin llysiau	nm	vegetable bin	``220930	_^cegin
+!blwch iâ	nm	ice box	``220930	_^cegin
+!bowlen gymysgu	nm	mixing bowl	``220930	_^cegin
+!brwsh llysiau	nm	vegetable brush	``220930	_^cegin
+!brwyliaid	nm	broiler	``220930	_^cegin
+!bwced iâ	nm	ice bucket	``220930	_^cegin
+!bwrdd torri	nm	cutting board	``220930	_^cegin
+!bwyd dros ben	nf	leftovers	``220930	_^cegin
+!byn yn gynhesach	nm	bun warmer	``220930	_^cegin
+!cadi	nm	caddy	``220930	_^cegin
+!caserol	nm	casserole	``220930	_^cegin
+!chwisg banadl	nm	whisk broom	``220930	_^cegin
+!cracer cnau	nm	nut cracker	``220930	_^cegin
+!crochan	nm	crock-pot	``220930	_^cegin
+!curwr wy	nm	egg beater	``220930	_^cegin
+!cwch grefi	nm	gravy boat	``220930	_^cegin
+!cwch saws	nm	sauce boat	``220930	_^cegin
+!cwpan cwstard	nm	custard cup	``220930	_^cegin
+!cwpan mesur	nm	measuring cup	``220930	_^cegin
+!cwpan te	nm	tea cup	``220930	_^cegin
+!cyllell stêc	nm	steak knife	``220930	_^cegin
+!cyllyll a ffyrc	nm	cutlery	``220930	_^cegin
+!cywasgwr sbwriel	nf	garbage compactor	``220930	_^cegin
+!darnau gweini	nm	serving pieces	``220930	_^cegin
+!dysgl pobi	nm	baking dish	``220930	_^cegin
+!dysgl ymenyn	nm	butter dish	``220930	_^cegin
+!ffoil alwminiwm	nm	aluminum foil	``220930	_^cegin
+!ffriwr	nm	fryer	``220930	_^cegin
+!gall garbage	nm	garbage can	``220930	_^cegin
+!gril	nm	grill	``220930	_^cegin
+!grinder cig	nm	meat grinder	``220930	_^cegin
+!grinder coffi	nm	coffee grinder	``220930	_^cegin
+!grinder pupur	nm	pepper grinder	``220930	_^cegin
+!gwaredu sbwriel	nf	garbage disposal	``220930	_^cegin
+!gwellaif dofednod	nm	poultry shears	``220930	_^cegin
+!gwlân dur	nm	steel wool	``220930	_^cegin
+!gwneuthurwr hufen iâ	nm	ice cream maker	``220930	_^cegin
+!gwneuthurwr iogwrt	nm	yogurt maker	``220930	_^cegin
+!gwydr sudd	nm	juice glass	``220930	_^cegin
+!haearn waffl	nm	waffle iron	``220930	_^cegin
+!hambwrdd ciwb iâ	nm	ice cube tray	``220930	_^cegin
+!hufenwr	nm	creamer	``220930	_^cegin
+!jar sbeis	nm	spice jar	``220930	_^cegin
+!lapio plastig	nm	plastic wrap	``220930	_^cegin
+!llestri arian	nm	silverware	``220930	_^cegin
+!llestri gwastad	nm	flatware	``220930	_^cegin
+!llestri	nm	china	``220930	_^cegin
+!lliain bwrdd	nm	tablecloth	``220930	_^cegin
+!llwy de	nm	teaspoon	``220930	_^cegin
+!llwy fwrdd	nm	tablespoon	``220930	_^cegin
+!llwyau mesur	nm	measuring spoons	``220930	_^cegin
+!llwydni	nm	mold	``220930	_^cegin
+!llyfr coginio	nm	cookbook	``220930	_^cegin
+!marinadu	nm	marinate	``220930	_^cegin
+!mat bwrdd	nm	placemat	``220930	_^cegin
+!melin bupur	nm	pepper mill	``220930	_^cegin
+!melin goffi	nm	coffee mill	``220930	_^cegin
+!miniwr cyllell	nm	knife sharpener	``220930	_^cegin
+!mitt ffwrn	nm	oven mitt	``220930	_^cegin
+!morter a pestl	nm	mortar and pestle	``220930	_^cegin
+!olwyn pizza	nm	pizza wheel	``220930	_^cegin
+!padell bwndt	nm	Bundt pan	``220930	_^cegin
+!padell gacen	nf	cake pan	``220930	_^cegin
+!padell haearn bwrw	nm	cast iron pan	``220930	_^cegin
+!padell myffin	nm	muffin pan	``220930	_^cegin
+!padell pizza	nm	pizza pan	``220930	_^cegin
+!padell quiche	nm	quiche pan	``220930	_^cegin
+!padell rostio	nm	roasting pan	``220930	_^cegin
+!papur cwyr	nm	waxed paper	``220930	_^cegin
+!peiriant espresso	nm	espresso machine	``220930	_^cegin
+!pestl	nm	pestle	``220930	_^cegin
+!pigo cnau	nm	nut pick	``220930	_^cegin
+!pigo ia	nm	ice pick	``220930	_^cegin
+!pigo yd	nm	corn pick	``220930	_^cegin
+!plat gweini	nm	serving platter	``220930	_^cegin
+!pliciwr llysiau	nm	vegetable peeler	``220930	_^cegin
+!plât pastai	nm	pie plate	``220930	_^cegin
+!plât poeth	nm	hot plate	``220930	_^cegin
+!popty Iseldireg	nf	Dutch oven	``220930	_^cegin
+!popty araf	nm	slow cooker	``220930	_^cegin
+!popty pwysau	nm	pressure cooker	``220930	_^cegin
+!popty reis	nm	rice cooker	``220930	_^cegin
+!popty tostiwr	nm	toaster oven	``220930	_^cegin
+!popty	nm	cooker	``220930	_^cegin
+!pot mêl	nm	honey pot	``220930	_^cegin
+!pot stiw	nm	stew pot	``220930	_^cegin
+!powlen ffrwythau	nm	fruit bowl	``220930	_^cegin
+!powlen gawl	nm	soup bowl	``220930	_^cegin
+!powlen salad	nm	salad bowl	``220930	_^cegin
+!powlen siwgr	nm	sugar bowl	``220930	_^cegin
+!powlenni nythu	nm	nesting bowls	``220930	_^cegin
+!prosesydd bwyd	nm	food processor	``220930	_^cegin
+!rac dysgl	nm	dish rack	``220930	_^cegin
+!rhydedd	nm	tureen	``220930	_^cegin
+!sbeisys	nm	spices	``220930	_^cegin
+!sebon dysgl	nm	dish soap	``220930	_^cegin
+!serth	nm	zester	``220930	_^cegin
+!set fondue	nm	fondue set	``220930	_^cegin
+!sgilet haearn	nm	iron skillet	``220930	_^cegin
+!sgiwer	nf	skewers	``220930	_^cegin
+!sgŵp hufen iâ	nm	ice cream scoop	``220930	_^cegin
+!siffrwd siwgr	nm	sugar sifter	``220930	_^cegin
+!siffrwr blawd	nm	flour sifter	``220930	_^cegin
+!silffoedd	nm	shelves	``220930	_^cegin
+!sosban	nm	sauce pan	``220930	_^cegin
+!stondin cacennau	nm	cake stand	``220930	_^cegin
+!stwnsiwr tatws	nm	potato masher	``220930	_^cegin
+!stwnsiwr	nm	masher	``220930	_^cegin
+!stôf	nm	stove	``220930	_^cegin
+!suddwr	nm	juicer	``220930	_^cegin
+!taflen cwci	nm	cookie sheet	``220930	_^cegin
+!thermomedr cig	nm	meat thermometer	``220930	_^cegin
+!torrwr cwci	nm	cookie cutter	``220930	_^cegin
+!torrwr pizza	nm	pizza cutter	``220930	_^cegin
+!trochwr mêl	nm	honey dipper	``220930	_^cegin
+!troellwr salad	nm	salad spinner	``220930	_^cegin
+!trwythwr te	nm	tea infuser	``220930	_^cegin
+!tymbler	nf	tumbler	``220930	_^cegin
+!tynerydd cig	nm	meat tenderizer	``220930	_^cegin
+!tywel dysgl	nm	dish towel	``220930	_^cegin
+!tywelion papur	nm	paper towels	``220930	_^cegin
+!wasg garlleg	nf	garlic press	``220930	_^cegin
+!ynys gegin	nm	kitchen island	``220930	_^cegin
+!ysgydwr halen	nf	salt shaker	``220930	_^cegin
+!ysgydwr pupur	nm	pepper shaker	``220930	_^cegin
+XXX	nm	can	``220930	_^cegin
+XXX	nm	carafe	``220930	_^cegin
+XXX	nm	chopsticks	``220930	_^cegin
+XXX	nm	decanter	``220930	_^cegin
+XXX	nm	percolator	``220930	_^cegin
+XXX	nm	popcorn popper	``220930	_^cegin
+XXX	nm	potholder	``220930	_^cegin
+XXX	nm	ramekin	``220930	_^cegin
+XXX	nm	reamer	``220930	_^cegin
+XXX	nm	wok	``220930	_^cegin
+agen, boch, golwyth, gwefl, safn	nm	chop	``220930	_^cegin
+agerlong	nm	steamer	``220930	_^cegin
+agorwr	nm	opener	``220930	_^cegin
+alawr, creffynu, plâd, plât	nm	plate	``220930	_^cegin
+alcam, alcam, alcan, tun, ystaen	nf	tin	``220930	_^cegin
+arlwyo, arlwyo, arlwywr, ceginwr, co^g, cog, coginio, cogydd, cogyddes	nf	cook	``220930	_^cegin
+baeol, crochan, paeol, pot, pot, pot, potio	nm	pot	``220930	_^cegin
+baeol, piser	nf	pitcher	``220930	_^cegin
+banc, bord, bwrdd, bwrdd, bwrdd, tabl	nm	table	``220930	_^cegin
+barclod, ffedog	nm	apron	``220930	_^cegin
+basged, cawell, fflask, gwragen, ysporthen	nf	basket	``220930	_^cegin
+batwr, curo, pwyo	nm	batter	``220930	_^cegin
+beichio, bowlio, cawg, cnapen, cogan, cwpan, gwn, mail, pan, trwca	nm	bowl	``220930	_^cegin
+berwi, berwi, brwd, cornwyd, dyferwi, pendduyn	nm	boil	``220930	_^cegin
+bolera, bolerwr, ysbwng, yspwng	nm	sponge	``220930	_^cegin
+bothell, potel, poteli, potelu	nm	bottle	``220930	_^cegin
+breuddil, malwr, melin	nm	grinder	``220930	_^cegin
+bwyd, bwyd, bwyd, gosymmaith, pry	nm	food	``220930	_^cegin
+cabinet	nf	cabinet	``220930	_^cegin
+caead, gwerchyr, hulier, twb	nm	lid	``220930	_^cegin
+carthwr	nm	cleanser	``220930	_^cegin
+cedaflen, llawliain, lliain, napcyn, napcyn	nm	napkin	``220930	_^cegin
+cegin, cegin, cegin	nm	kitchen	``220930	_^cegin
+chwip, chwipio, ffrewyll, rhoden, tres	nf	whip	``220930	_^cegin
+cib, cibyn, cogan, cwpan, eraint, gorflwch, pan, trwca	nm	cup	``220930	_^cegin
+cipio, hawd, sitio, ysgubell, ysgubo, ysguth	nm	whisk	``220930	_^cegin
+cnec, cnecian, costrel, costrelan, jar, rhygnu	nm	jar	``220930	_^cegin
+cownter	nf	counter	``220930	_^cegin
+crasiedydd, poban	nm	roaster	``220930	_^cegin
+cryw, rhasgi, ysgien	nf	slicer	``220930	_^cegin
+curwr	nm	beater	``220930	_^cegin
+cwpwrdd, cwpwrdd, llogawd	nm	cupboard	``220930	_^cegin
+cyllell, cyllell, cyllell, cyllell, dagr	nm	knife	``220930	_^cegin
+cymysgwr	nm	blender	``220930	_^cegin
+cymysgwr	nm	mixer	``220930	_^cegin
+cynghor, rysa´it	nm	recipe	``220930	_^cegin
+disgl, dysgl, llestr, noe	nm	dish	``220930	_^cegin
+disgl, noe	nm	platter	``220930	_^cegin
+dygleigio, dysuddo, rhoncian, sawdd, soch, soddi, suddo, suddo	nm	sink	``220930	_^cegin
+fforc, fforc, fforch, fforchi, fforchogi, gafl, gaflach	nm	fork	``220930	_^cegin
+ffrimpan	nm	frying pan	``220930	_^cegin
+ffwrn, ffwrn, ffwrn, poban	nm	oven	``220930	_^cegin
+gefail, gefel	nf	tongs	``220930	_^cegin
+godard	nm	mug	``220930	_^cegin
+gogr, hesgyn, rhidyll, syfa	nm	sieve	``220930	_^cegin
+gogrwr, gwegrwr, marchridyll, nithiwr	nm	sifter	``220930	_^cegin
+gradell, greiddyll	nm	griddle	``220930	_^cegin
+gwellaif	nm	shears	``220930	_^cegin
+gwib, rhestrig, rhodle, rhrestru, seldremio, talm, trafnid, trafnu, treidio, ystofi, ystre	nm	range	``220930	_^cegin
+hambwrdd, hambwrdd, noe	nm	tray	``220930	_^cegin
+hidl	nm	colander	``220930	_^cegin
+jwg, jwg, marchog, piser	nf	jug	``220930	_^cegin
+lledwad, lletwed, llwy, llwyo	nm	ladle	``220930	_^cegin
+llwy, llwy, llwy, llwyar, llwyaru, llwyo	nm	spoon	``220930	_^cegin
+mapwl, mop, mopren	nf	mop	``220930	_^cegin
+microdonydd	nm	microwave oven	``220930	_^cegin
+moelffon	nm	spatula	``220930	_^cegin
+oergell	nm	refrigerator	``220930	_^cegin
+padell, padell, padell, pan	nm	pan	``220930	_^cegin
+posned	nf	skillet	``220930	_^cegin
+rhewgell, rhewgell	nm	freezer	``220930	_^cegin
+rhisellt	nm	grater	``220930	_^cegin
+rholbren	nf	rolling pin	``220930	_^cegin
+sbectol	nm	glasses	``220930	_^cegin
+sebon, sebon, seboni	nm	soap	``220930	_^cegin
+soser	nf	saucer	``220930	_^cegin
+tebot, tebot	nm	teapot	``220930	_^cegin
+tegell	nm	kettle	``220930	_^cegin
+thermomedr, thermomedr	nm	thermometer	``220930	_^cegin
+toes	nf	dough	``220930	_^cegin
+tostiwr	nm	toaster	``220930	_^cegin
+tribedd, trydedd	nm	trivet	``220930	_^cegin
+ynys, ynysol	nm	island	``220930	_^cegin
+ysgub, ysgubell	nm	broom	``220930	_^cegin
+ystyffernach	nm	utensils	``220930	_^cegin

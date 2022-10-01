@@ -1,0 +1,106 @@
+ael	_lluniau	eyebrow	``220930	_allanol-gorff
+allanforddwyd	_lluniau	outer thigh	``220930	_allanol-gorff
+amgud	_lluniau	curly lock	``220930	_allanol-gorff
+amrantflew	_lluniau	eyelash	``220930	_allanol-gorff
+arddwrn 	_lluniau	wrist	``220930	_allanol-gorff
+arffed	_lluniau	forepart, lap	``220930	_allanol-gorff
+arlais	_lluniau	temple	``220930	_allanol-gorff
+asengawell	_lluniau	rib-cage	``220930	_allanol-gorff
+bachfys	_lluniau	small finger	``220930	_allanol-gorff
+bawd 	_lluniau	thumb	``220930	_allanol-gorff
+blaenddannedd	_lluniau	front teeth	``220930	_allanol-gorff
+blaendweg	_lluniau	front lock	``220930	_allanol-gorff
+blaengudyn	_lluniau	forelock	``220930	_allanol-gorff
+bochasgwrn	_lluniau	cheekbone	``220930	_allanol-gorff
+bochesgyrn	_lluniau	cheekbones	``220930	_allanol-gorff
+bodbelen	_lluniau	ball of thumb	``220930	_allanol-gorff
+bodewin	_lluniau	thumbnail	``220930	_allanol-gorff
+bolfotwm	_lluniau	belly button	``220930	_allanol-gorff
+bontin	_lluniau	buttock, rump	``220930	_allanol-gorff
+brest	_lluniau	breast, chest	``220930	_allanol-gorff
+breuantafal	_lluniau	adam's apple	``220930	_allanol-gorff
+bron	_lluniau	breast	``220930	_allanol-gorff
+bysedd	_lluniau	fingers	``220930	_allanol-gorff
+bysewin	_lluniau	fingernail	``220930	_allanol-gorff
+bysflaen	_lluniau	finger-tip	``220930	_allanol-gorff
+canolfys	_lluniau	middle finger	``220930	_allanol-gorff
+caran	_lluniau	crown of the head	``220930	_allanol-gorff
+cefn	_lluniau	back, ridge of back	``220930	_allanol-gorff
+cern	_lluniau	jaw	``220930	_allanol-gorff
+cesail	_lluniau	arm-pit	``220930	_allanol-gorff
+clun	_lluniau	haunch, hip, thigh	``220930	_allanol-gorff
+clust	_lluniau	ear	``220930	_allanol-gorff
+clustdwll	_lluniau	ear hole	``220930	_allanol-gorff
+clustflaen	_lluniau	ear tip	``220930	_allanol-gorff
+clustlabed	_lluniau	earlobe	``220930	_allanol-gorff
+coesau	_lluniau	legs	``220930	_allanol-gorff
+coesgroth	_lluniau	calf of leg	``220930	_allanol-gorff
+colerasgwrn	_lluniau	collar bone	``220930	_allanol-gorff
+crimog	_lluniau	shin	``220930	_allanol-gorff
+cudyn	_lluniau	as of hair!lock of hair, tuft of hair	``220930	_allanol-gorff
+cwgn	_lluniau	joint, knuckle	``220930	_allanol-gorff
+dagrauddwythell	_lluniau	tear duct	``220930	_allanol-gorff
+deubengyhyrau	_lluniau	biceps	``220930	_allanol-gorff
+diden	_lluniau	nipple, teat	``220930	_allanol-gorff
+didi	_lluniau	nipple	``220930	_allanol-gorff
+dwrn	_lluniau	fist	``220930	_allanol-gorff
+elgeth	_lluniau	chin, jaw	``220930	_allanol-gorff
+elin 	_lluniau	elbow	``220930	_allanol-gorff
+ffolen	_lluniau	buttock, haunch	``220930	_allanol-gorff
+ffroen	_lluniau	nose, nostril	``220930	_allanol-gorff
+ffêr	_lluniau	ankle	``220930	_allanol-gorff
+glin	_lluniau	knee, lap	``220930	_allanol-gorff
+gwallt	_lluniau	hair, hair of the head	``220930	_allanol-gorff
+gwalltraniad	_lluniau	hair parting	``220930	_allanol-gorff
+gwar	_lluniau	nape of the neck	``220930	_allanol-gorff
+gwast	_lluniau	waist	``220930	_allanol-gorff
+gwddf	_lluniau	neck, throat	``220930	_allanol-gorff
+gwegil	_lluniau	nape of the neck	``220930	_allanol-gorff
+gwyn-y-llygad	_lluniau	white of eye	``220930	_allanol-gorff
+gên	_lluniau	chin	``220930	_allanol-gorff
+gênlinell	_lluniau	jawline	``220930	_allanol-gorff
+iris	_lluniau	iris	``220930	_allanol-gorff
+isfraich 	_lluniau	lower arm	``220930	_allanol-gorff
+isfraich	_lluniau	lower arm	``220930	_allanol-gorff
+llaw	_lluniau	hand	``220930	_allanol-gorff
+llawf	_lluniau	palm of the hand	``220930	_allanol-gorff
+llawgledr	_lluniau	palm of hand	``220930	_allanol-gorff
+lloflen	_lluniau	grasp, palm	``220930	_allanol-gorff
+llygatganwyll	_lluniau	pupil of eye	``220930	_allanol-gorff
+meinael	_lluniau	eyebrow	``220930	_allanol-gorff
+meingefn	_lluniau	spine	``220930	_allanol-gorff
+meingorff	_lluniau	waist	``220930	_allanol-gorff
+mewnforddwyd	_lluniau	inner thigh	``220930	_allanol-gorff
+mewnglust	_lluniau	inner ear	``220930	_allanol-gorff
+migwrn	_lluniau	ankle, knuckle	``220930	_allanol-gorff
+modrwyfys	_lluniau	ring-finger	``220930	_allanol-gorff
+mwnwg	_lluniau	neck	``220930	_allanol-gorff
+mynegfys	_lluniau	fore finger	``220930	_allanol-gorff
+palfais	_lluniau	shoulder blade	``220930	_allanol-gorff
+pedrain	_lluniau	buttock, crupper!haunches	``220930	_allanol-gorff
+pen	_lluniau	head	``220930	_allanol-gorff
+penelin	_lluniau	elbow	``220930	_allanol-gorff
+penlin	_lluniau	kneecap	``220930	_allanol-gorff
+pitan	_lluniau	nipple, teat	``220930	_allanol-gorff
+pontdrwyn	_lluniau	bridge of nose	``220930	_allanol-gorff
+pwll-y-galon	_lluniau	solar plexus	``220930	_allanol-gorff
+safn	_lluniau	jaw, jaws	``220930	_allanol-gorff
+sawdl	_lluniau	heel	``220930	_allanol-gorff
+sglera	_lluniau	sclera	``220930	_allanol-gorff
+stumog	_lluniau	stomach	``220930	_allanol-gorff
+talcen	_lluniau	forehead	``220930	_allanol-gorff
+tin	_lluniau	bottom, breech!rump	``220930	_allanol-gorff
+troed	_lluniau	foot	``220930	_allanol-gorff
+troedwadn	_lluniau	sole of foot	``220930	_allanol-gorff
+troetbelen	_lluniau	ball of foot	``220930	_allanol-gorff
+troetfachfys	_lluniau	small toe	``220930	_allanol-gorff
+troetfawd	_lluniau	big toe	``220930	_allanol-gorff
+troetfysflaen	_lluniau	tip of toe	``220930	_allanol-gorff
+troetganolfys	_lluniau	middle toe	``220930	_allanol-gorff
+trwynbwynt	_lluniau	point of nose	``220930	_allanol-gorff
+uwchamrant	_lluniau	upper eyelash	``220930	_allanol-gorff
+uwcharddwrn	_lluniau	upper wrist	``220930	_allanol-gorff
+uwchfraich	_lluniau	upper arm	``220930	_allanol-gorff
+uwchwefus	_lluniau	upper lip	``220930	_allanol-gorff
+ysgwydd	_lluniau	shoulder	``220930	_allanol-gorff
+ysgwyddgrafell	_lluniau	shoulder blade	``220930	_allanol-gorff

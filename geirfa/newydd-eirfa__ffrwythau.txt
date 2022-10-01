@@ -1,0 +1,112 @@
+aeron eithin Ffrengig	_lluniau	buckthorn	``221001	_ffrwythau
+aeron eithin y cwrw	_lluniau	juniper	``221001	_ffrwythau
+afal Anna	_lluniau	golding apple	``221001	_ffrwythau
+afal Ewias	_lluniau	cider apple	``221001	_ffrwythau
+afal cariad	_lluniau	love apple, tomato	``221001	_ffrwythau
+afal cwins	_lluniau	quince	``221001	_ffrwythau
+afal euraid	_lluniau	orange	``221001	_ffrwythau
+afal garnad	_lluniau	pomegranate	``221001	_ffrwythau
+afal gronog	_lluniau	pomegranate	``221001	_ffrwythau
+afal gronynnog	_lluniau	pomegranate	``221001	_ffrwythau
+afal melyn	_lluniau	lemon	``221001	_ffrwythau
+afal melynhir	_lluniau	lemon	``221001	_ffrwythau
+afal paradwys	_lluniau	peach	``221001	_ffrwythau
+afal peatus	_lluniau	peach	``221001	_ffrwythau
+afal pin	_lluniau	pineapple	``221001	_ffrwythau
+afal pobi	_lluniau	cooking apple	``221001	_ffrwythau
+afal sur	_lluniau	crab-apple	``221001	_ffrwythau
+afal	_lluniau	apple	``221001	_ffrwythau
+afalau drain	_lluniau	haws, hawthorn berries	``221001	_ffrwythau
+afalau perion	_lluniau	dessert apples	``221001	_ffrwythau
+afanen	_lluniau	raspberry	``221001	_ffrwythau
+afocado	_lluniau	avocado	``221001	_ffrwythau
+banana	_lluniau	banana	``221001	_ffrwythau
+bergamotoren	_lluniau	bergamot orange	``221001	_ffrwythau
+bricyllen	_lluniau	apricot	``221001	_ffrwythau
+cadw-afal	_lluniau	winter apple	``221001	_ffrwythau
+castan	_lluniau	chestnut, horse chestnut	``221001	_ffrwythau
+ceirios y waun	_lluniau	cranberry, whortleberry	``221001	_ffrwythau
+ceiriosen	_lluniau	cherry	``221001	_ffrwythau
+ciwiffrwyth	_lluniau	kiwi fruit	``221001	_ffrwythau
+cnauen peatus	_lluniau	peach	``221001	_ffrwythau
+coch-gyrensen	_lluniau	redcurrant	``221001	_ffrwythau
+criafol-rawn	_lluniau	rowan-berries	``221001	_ffrwythau
+cwinsen	_lluniau	quince	``221001	_ffrwythau
+cymcwat	_lluniau	kumkwat	``221001	_ffrwythau
+dufafonen	_lluniau	blackberry, bramble	``221001	_ffrwythau
+dugyrensen	_lluniau	blackcurrant	``221001	_ffrwythau
+duon-eirin	_lluniau	sloes, common black plums, damsons	``221001	_ffrwythau
+dâten	_lluniau	date	``221001	_ffrwythau
+eirin Ffrainc	_lluniau	prunes	``221001	_ffrwythau
+eirin Mair pentir	_lluniau	cape gooseberries	``221001	_ffrwythau
+eirin Mair	_lluniau	gooseberry	``221001	_ffrwythau
+eirin Ysbaen	_lluniau	damsons	``221001	_ffrwythau
+eirin bwlas	_lluniau	bullace, wild plums	``221001	_ffrwythau
+eirin duon bach	_lluniau	black plum	``221001	_ffrwythau
+eirin gwyn	_lluniau	greengages	``221001	_ffrwythau
+eirin gwyrdd	_lluniau	greengages	``221001	_ffrwythau
+eirin hirion	_lluniau	damson fruit	``221001	_ffrwythau
+eirin morwydd	_lluniau	mulberries	``221001	_ffrwythau
+eirin perthi	_lluniau	sloes, blackthorn berries	``221001	_ffrwythau
+eirin pêr 	_lluniau	prune	``221001	_ffrwythau
+eirin pêr	_lluniau	prunes, sweet plums	``221001	_ffrwythau
+eirin surion	_lluniau	sloes, blackthorn berries	``221001	_ffrwythau
+eirin sychol	_lluniau	prunes	``221001	_ffrwythau
+eirin tagu	_lluniau	bullace, wild plums	``221001	_ffrwythau
+eirin y gors	_lluniau	crowberries	``221001	_ffrwythau
+eirin y moch	_lluniau	haws, hawthorn berries	``221001	_ffrwythau
+eirin ysgaw	_lluniau	elderberries	``221001	_ffrwythau
+eirinen wlanog	_lluniau	peach	``221001	_ffrwythau
+eirinen	_lluniau	plum	``221001	_ffrwythau
+ffigysen	_lluniau	fig	``221001	_ffrwythau
+ffrwyth nwyd	_lluniau	passion fruit	``221001	_ffrwythau
+ffrwythau sitrws	_lluniau	citrus fruits	``221001	_ffrwythau
+ffrwythau trofannol	_lluniau	tropical	``221001	_ffrwythau
+ffrwythau	_lluniau	fruits	``221001	_ffrwythau
+gellygen	_lluniau	pear	``221001	_ffrwythau
+godog-suran	_lluniau	winter cherry, Chinese lantern, physalis	``221001	_ffrwythau
+grawn Corinth	_lluniau	currants	``221001	_ffrwythau
+grawn llafur	_lluniau	corn	``221001	_ffrwythau
+grawn unnos	_lluniau	mushrooms	``221001	_ffrwythau
+grawn ysgaw	_lluniau	elder-berries	``221001	_ffrwythau
+grawnafal	_lluniau	pomegranate	``221001	_ffrwythau
+grawnen gwinwydd	_lluniau	grape	``221001	_ffrwythau
+grawnen y grâp	_lluniau	grape	``221001	_ffrwythau
+grawnffrwyth pomelo	_lluniau	pomelo	``221001	_ffrwythau
+grawnffrwyth	_lluniau	grapefruit	``221001	_ffrwythau
+grawnwinen	_lluniau	grape	``221001	_ffrwythau
+gwarbl	_lluniau	conker	``221001	_ffrwythau
+gwenith-rawn	_lluniau	wheat	``221001	_ffrwythau
+gwylltion-fafon	_lluniau	wild raspberries	``221001	_ffrwythau
+leim	_lluniau	lime	``221001	_ffrwythau
+lemwn	_lluniau	lemon	``221001	_ffrwythau
+llus duon y mynydd	_lluniau	crowberries	``221001	_ffrwythau
+llus y brain	_lluniau	crowberries	``221001	_ffrwythau
+lluswyddaeron	_lluniau	bilberry, whinberry, whortleberry	``221001	_ffrwythau
+llwyn dyrys	_lluniau	bramble	``221001	_ffrwythau
+mafon Ffrengaidd	_lluniau	mulberries	``221001	_ffrwythau
+mafon logan	_lluniau	loganberries	``221001	_ffrwythau
+mafonen coch	_lluniau	raspberry	``221001	_ffrwythau
+mafonen	_lluniau	raspberry	``221001	_ffrwythau
+mango	_lluniau	mango	``221001	_ffrwythau
+mefusen	_lluniau	strawberry	``221001	_ffrwythau
+melwn gwlith mêl	_lluniau	honeydew melon	``221001	_ffrwythau
+melwn	_lluniau	melon	``221001	_ffrwythau
+mieri'r mynydd	_lluniau	cloudberry	``221001	_ffrwythau
+mwyaren	_lluniau	blackberry	``221001	_ffrwythau
+neithdaren	_lluniau	nectarine	``221001	_ffrwythau
+oren mandarin	_lluniau	mandarin	``221001	_ffrwythau
+oren tansierin	_lluniau	tangerine	``221001	_ffrwythau
+oren	_lluniau	orange	``221001	_ffrwythau
+papaia	_lluniau	papaya	``221001	_ffrwythau
+peren	_lluniau	pear	``221001	_ffrwythau
+pinafal	_lluniau	pineapple	``221001	_ffrwythau
+pomgranad	_lluniau	pomegranate	``221001	_ffrwythau
+pompiwn	_lluniau	gourd	``221001	_ffrwythau
+pwmcin	_lluniau	pumpkin	``221001	_ffrwythau
+rhewynt-afalau	_lluniau	windfall	``221001	_ffrwythau
+sitrul	_lluniau	melon	``221001	_ffrwythau
+stramoniwm	_lluniau	thorn apple, stranionium	``221001	_ffrwythau
+tag-dduon-eirin	_lluniau	sloes, blackthorn berries	``221001	_ffrwythau
+tomato	_lluniau	tomato	``221001	_ffrwythau
+ŷd-rawn	_lluniau	wheat	``221001	_ffrwythau

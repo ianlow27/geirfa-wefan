@@ -1,0 +1,118 @@
+aderyn du		blackbird	``	clugiaid
+aderyn y to		house sparrow	``	clugiaid
+aderyn yr eira		starling	``	clugiaid
+asgell fraith		chaffinch	``	clugiaid
+bras y gogledd		lapland bunting	``	clugiaid
+bras yr eira		snow bunting	``	clugiaid
+bronfraith fochlwyd		grey-cheeked thrush	``	clugiaid
+bronfraith las y graig		brych glas y graig	``	clugiaid
+bronfraith y graig		brych y graig	``	clugiaid
+bronfraith		song thrush	``	clugiaid
+bronwen y dŵr		dipper	``	clugiaid
+brych glas y graig		blue rock thrush	``	clugiaid
+brych tywyll		dusky thrush	``	clugiaid
+brych y coed		tresglen	``	clugiaid
+brych y graig		rock thrush	``	clugiaid
+brân dyddyn		carrion crow	``	clugiaid
+brân goesgoch		chough	``	clugiaid
+brân lwyd		hooded crow	``	clugiaid
+cath-aderyn llwyd		grey catbird	``	clugiaid
+cigfran		raven	``	clugiaid
+clochdar y cerrig		stonechat	``	clugiaid
+coch dan adain		redwing	``	clugiaid
+coch dan-aden		coch dan adain	``	clugiaid
+coch y berllan		bullfinch	``	clugiaid
+corfronfraith		swainson's thrush	``	clugiaid
+corhedydd gwyrddgefn		olive-backed pipit	``	clugiaid
+corhedydd gyddfgoch		red-throated pipit	``	clugiaid
+corhedydd melyn		tawny pipit	``	clugiaid
+corhedydd y coed		tree pipit	``	clugiaid
+corhedydd y graig		rock pipit	``	clugiaid
+corhedydd y waun		meadow pipit	``	clugiaid
+crec yr eithin		whinchat	``	clugiaid
+cynffon sidan		waxwing	``	clugiaid
+cynffonlas ystlysgoch		red-flanked bluetail	``	clugiaid
+delor y cnau		nuthatch	``	clugiaid
+dringwr bach		treecreeper	``	clugiaid
+drudwen wridog		rose-coloured starling	``	clugiaid
+drudwen		starling	``	clugiaid
+drudwy		starling	``	clugiaid
+dryw eurben		goldcrest	``	clugiaid
+dryw fflamben		firecrest	``	clugiaid
+dryw penfflamgoch		dryw fflamben	``	clugiaid
+dryw		wren	``	clugiaid
+ehedydd copog		crested lark	``	clugiaid
+ehedydd llwyd		short-toed lark	``	clugiaid
+ehedydd		skylark	``	clugiaid
+eos fraith		thrush nightingale	``	clugiaid
+eos fronfraith		thrush nightingale	``	clugiaid
+eos		nightingale	``	clugiaid
+euryn yr haf		tanagr yr haf	``	clugiaid
+fireo llygatgoch		red-eyed vireo	``	clugiaid
+golfan y mynydd		tree sparrow	``	clugiaid
+groesbig adeinwen		two-barred crossbill	``	clugiaid
+groesbig wenaden		two-barred crossbill	``	clugiaid
+gwennol dingoch		red-rumped swallow	``	clugiaid
+gwennol y bondo		house martin	``	clugiaid
+gwennol y glennydd		sand martin	``	clugiaid
+gwennol		swallow	``	clugiaid
+gwybedog brith		pied flycatcher	``	clugiaid
+gwybedog brongoch		red-breasted flycatcher	``	clugiaid
+gwybedog mannog		spotted flycatcher	``	clugiaid
+gwybedog y gwenyn		bee-eater	``	clugiaid
+gylfinbraff		hawfinch	``	clugiaid
+gylfindew brongoch		rose-breasted grosbeak	``	clugiaid
+jac-y-do		jackdaw	``	clugiaid
+ji-binc		chaffinch	``	clugiaid
+llinos bengoch gyffredin		common redpoll	``	clugiaid
+llinos bengoch leiaf		lesser redpoll	``	clugiaid
+llinos frech		serin	``	clugiaid
+llinos goch		common rosefinch	``	clugiaid
+llinos werdd		greenfinch	``	clugiaid
+llinos		linnet	``	clugiaid
+llwyd y gwrych		dunnock	``	clugiaid
+llwyd y mynydd		alpine accentor	``	clugiaid
+malwr cnau		nutcracker	``	clugiaid
+mwyalchen y mynydd		ring ouzel	``	clugiaid
+mwyalchen		blackbird	``	clugiaid
+nico		goldfinch	``	clugiaid
+pila gwyrdd		siskin	``	clugiaid
+pinc y mynydd		brambling	``	clugiaid
+pioden		magpie	``	clugiaid
+rholydd		roller	``	clugiaid
+robin america		american robin	``	clugiaid
+robin goch		robin	``	clugiaid
+sgrech y coed		jay	``	clugiaid
+siff-saff		chiffchaff	``	clugiaid
+siglen felen		yellow wagtail	``	clugiaid
+siglen fraith		pied wagtail	``	clugiaid
+siglen lwyd		grey wagtail	``	clugiaid
+socan eira		fieldfare	``	clugiaid
+tanagr yr haf		summer tanager	``	clugiaid
+telor aur		icterine warbler	``	clugiaid
+telor brongoch		subalpine warbler	``	clugiaid
+telor llygatgoch		fireo llygatgoch	``	clugiaid
+telor mawr y cyrs		great reed warbler	``	clugiaid
+telor penddu		blackcap	``	clugiaid
+telor sardinia		sardinian warbler	``	clugiaid
+telor y cyrs blyth		blyth's reed warbler	``	clugiaid
+telor y cyrs		reed warbler	``	clugiaid
+telor y dŵr		aquatic warbler	``	clugiaid
+telor y gwerni		marsh warbler	``	clugiaid
+telor yr helyg		willow warbler	``	clugiaid
+telor yr hesg		sedge warbler	``	clugiaid
+tingoch du		black redstart	``	clugiaid
+tingoch		redstart	``	clugiaid
+tinwen isabella		isabelline wheatear	``	clugiaid
+tinwen y garn		wheatear	``	clugiaid
+titw barfog		bearded tit	``	clugiaid
+titw cynffon-hir		long-tailed tit	``	clugiaid
+titw mawr		great tit	``	clugiaid
+titw penddu		coal tit	``	clugiaid
+titw pendil		penduline tit	``	clugiaid
+titw tomos las		blue tit	``	clugiaid
+titw'r helyg		willow tit	``	clugiaid
+titw'r wern		marsh tit	``	clugiaid
+tresglen		mistle thrush	``	clugiaid
+ydfran		rook	``	clugiaid
+ysgrech y coed		jay	``	clugiaid

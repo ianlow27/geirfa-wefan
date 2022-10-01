@@ -1,0 +1,24 @@
+{
+    "name": "ianl28/geirfa-wefan",
+    "description": "Mae'r taflun hwn, ysgrifennwyd yn PHP, HTML a JavaScript, yn cynnig wefan gyda'r llun-eirfa ar gyfer y dygwyr o eirfa gyffredinol ac arbenigol.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian Low",
+            "email": "ianlow28@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Ianl28\\GeirfaWefan\\": "src/"
+      }
+    },
+    "scripts": {
+      "post-status-cmd": "Ianl28\\StarterFiles\\StarterFiles::run"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "ianl28/starter-files": "dev-main"
+    }
+}

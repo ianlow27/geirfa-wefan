@@ -1,0 +1,208 @@
+adda-fach-fuwch	nm	ladybird	``220930	_^ymgripiat-bryfed
+aifft-chwilen	nf	scarab	``220930	_^ymgripiat-bryfed
+arian-bryfyn	nm	silverfish	``220930	_^ymgripiat-bryfed
+baw-chwilen	nf	cockchafer	``220930	_^ymgripiat-bryfed
+blawd-gynrhonyn	nm	mealworm	``220930	_^ymgripiat-bryfed
+bolwyn-ddŵr-gefyll	nm	water boatman	``220930	_^ymgripiat-bryfed
+bolwyn-gyrchwr	nm	water boatman	``220930	_^ymgripiat-bryfed
+brigyn-bryfyn	nm	stick insect	``220930	_^ymgripiat-bryfed
+brith-hir-gorn-gricsyn	nm	speckled bush cricket	``220930	_^ymgripiat-bryfed
+brith-wlithen	nf	leopard slug	``220930	_^ymgripiat-bryfed
+brwyn-garw-gorryn	nm	harvestman	``220930	_^ymgripiat-bryfed
+brytwn-forgrugyn	nm	southern wood ant	``220930	_^ymgripiat-bryfed
+bwcai	nm	maggot	``220930	_^ymgripiat-bryfed
+bwgan-chwilen	nf	whirligig beetle	``220930	_^ymgripiat-bryfed
+bwm-chwilen	nf	cockchafer	``220930	_^ymgripiat-bryfed
+cardinal-gopyn	nm	cardinal spider	``220930	_^ymgripiat-bryfed
+carped-euddonyn	nm	carpet mite	``220930	_^ymgripiat-bryfed
+carped-widdonyn	nm	carpet mite	``220930	_^ymgripiat-bryfed
+carw-gyrn-chwilen	nf	stag beetle	``220930	_^ymgripiat-bryfed
+cawr-dŷ-gorryn	nm	giant house spider	``220930	_^ymgripiat-bryfed
+cefnwyn-ddŵr-gefyll	nm	water boatman	``220930	_^ymgripiat-bryfed
+cefnwyn-gyrchwr	nm	water boatman	``220930	_^ymgripiat-bryfed
+chwannen	nf	flea	``220930	_^ymgripiat-bryfed
+chwilen	nf	beetle	``220930	_^ymgripiat-bryfed
+chwiler	nf	chrysalis	``220930	_^ymgripiat-bryfed
+chwiler	nf	pupa	``220930	_^ymgripiat-bryfed
+chwilioryn	nm	maggot	``220930	_^ymgripiat-bryfed
+chwrnellu-fwgan-chwilen	nf	whirligig beetle	``220930	_^ymgripiat-bryfed
+chwynogli	nm	grub	``220930	_^ymgripiat-bryfed
+chwyrligwgan-chwilen	nf	whirligig beetle	``220930	_^ymgripiat-bryfed
+claddu-chwilen	nf	sexton burying beetle	``220930	_^ymgripiat-bryfed
+clec-chwilen	nf	click beetle	``220930	_^ymgripiat-bryfed
+clustiog-bryfyn	nm	earwig	``220930	_^ymgripiat-bryfed
+cnoi-chwilen	nf	devil's coach horse	``220930	_^ymgripiat-bryfed
+coed-fochyn	nm	woodlouse	``220930	_^ymgripiat-bryfed
+coed-leuen	nf	greenfly	``220930	_^ymgripiat-bryfed
+coed-wrachen	nf	woodlouse	``220930	_^ymgripiat-bryfed
+corniog-chwilen	nf	longhorn beetle	``220930	_^ymgripiat-bryfed
+corniog-chwilen	nf	stag beetle	``220930	_^ymgripiat-bryfed
+cota-fach-fuwch	nm	ladybird	``220930	_^ymgripiat-bryfed
+cota-goch-fuwch	nm	ladybird	``220930	_^ymgripiat-bryfed
+cranc-gopyn	nm	crab spider	``220930	_^ymgripiat-bryfed
+cranc-gorryn	nm	crab spider	``220930	_^ymgripiat-bryfed
+cricell	nm	cricket	``220930	_^ymgripiat-bryfed
+criciedyn	nm	cricket	``220930	_^ymgripiat-bryfed
+cricsyn	nm	cricket	``220930	_^ymgripiat-bryfed
+cronnell-wehydd-gorryn	nm	orb weaver spider	``220930	_^ymgripiat-bryfed
+cwpwrdd-gorryn	nm	cupboard spider	``220930	_^ymgripiat-bryfed
+cwt-sboncyn	nm	springtail	``220930	_^ymgripiat-bryfed
+cyffredin-gloddio-chwilen	nf	common burying beetle	``220930	_^ymgripiat-bryfed
+cyffredin-lyffant	nm	common frog	``220930	_^ymgripiat-bryfed
+cyffredin-wyrdd-redyn-geiliog	nm	common green grasshopper	``220930	_^ymgripiat-bryfed
+cyffredin-wyrdd-wair-sioncyn	nm	common green grasshopper	``220930	_^ymgripiat-bryfed
+cynrhonyn	nm	larva	``220930	_^ymgripiat-bryfed
+cynrhonyn	nm	maggot	``220930	_^ymgripiat-bryfed
+daear-chwilen	nf	ground beetle	``220930	_^ymgripiat-bryfed
+dail-bryfyn	nm	leafhopper	``220930	_^ymgripiat-bryfed
+dail-leuen	nf	greenfly	``220930	_^ymgripiat-bryfed
+dail-sboncyn	nm	leafhopper	``220930	_^ymgripiat-bryfed
+dau-frych-ar-hugain-gota-fach-fuwch	nm	twenty-two-spot ladybird	``220930	_^ymgripiat-bryfed
+ddŵr-eneugoeg	nf	newt	``220930	_^ymgripiat-bryfed
+ddŵr-fadfall,	nm	newt	``220930	_^ymgripiat-bryfed
+deildorrol-forgrugyn	nm	leafcutter ant	``220930	_^ymgripiat-bryfed
+derw-lwyn-gricsyn	nm	oak bush cricket	``220930	_^ymgripiat-bryfed
+dimiad	nm	silverfish	``220930	_^ymgripiat-bryfed
+dom-chwilen	nf	dung beetle	``220930	_^ymgripiat-bryfed
+dom-chwilen	nf	scarab	``220930	_^ymgripiat-bryfed
+drew-bryf	nm	stink bug	``220930	_^ymgripiat-bryfed
+drysfa-gopyn	nm	labyrinth spider	``220930	_^ymgripiat-bryfed
+du-chwilen	nf	cockroach	``220930	_^ymgripiat-bryfed
+du-wlithen	nf	black slug	``220930	_^ymgripiat-bryfed
+dŵr-bric-bryfyn	nm	water stick insect	``220930	_^ymgripiat-bryfed
+dŵr-falwen	nf	water snails	``220930	_^ymgripiat-bryfed
+dŵr-gerdded-ffon	nm	water stick insect	``220930	_^ymgripiat-bryfed
+dŵr-hir-heglyn	nm	pond skater	``220930	_^ymgripiat-bryfed
+dŵr-leuen	nf	water slater	``220930	_^ymgripiat-bryfed
+dŵr-riain	nm	pond skater	``220930	_^ymgripiat-bryfed
+dŵr-sglefryn	nm	pond skater	``220930	_^ymgripiat-bryfed
+dŵr-sgleifiwr	nm	pond skater	``220930	_^ymgripiat-bryfed
+dŵr-sgorpion	nm	water scorpion	``220930	_^ymgripiat-bryfed
+egrifft	nm	frogspawn	``220930	_^ymgripiat-bryfed
+euddonyn	nm	mite	``220930	_^ymgripiat-bryfed
+euddonyn	nm	weevil	``220930	_^ymgripiat-bryfed
+euonyn	nm	weevil	``220930	_^ymgripiat-bryfed
+ewropeaidd-ardd-gorryn	nm	european garden spider	``220930	_^ymgripiat-bryfed
+ffrengig-sioncyn	nm	cicada	``220930	_^ymgripiat-bryfed
+ffug-weddw-gorryn	nm	false widow spider	``220930	_^ymgripiat-bryfed
+gardd-deigrwyfyn-lindysyn	nm	garden tiger moth caterpillar	``220930	_^ymgripiat-bryfed
+gardd-falwoden	nf	garden snail	``220930	_^ymgripiat-bryfed
+gardd-gorryn	nm	garden spider	``220930	_^ymgripiat-bryfed
+gel	nf	leech	``220930	_^ymgripiat-bryfed
+gele	nm	leech	``220930	_^ymgripiat-bryfed
+gelen	nf	leech	``220930	_^ymgripiat-bryfed
+glöyn	nm	glow-worm	``220930	_^ymgripiat-bryfed
+goleuen	nf	glow-worm	``220930	_^ymgripiat-bryfed
+grifft	nm	frogspawn	``220930	_^ymgripiat-bryfed
+griffyll	nm	frogspawn	``220930	_^ymgripiat-bryfed
+gwair-sioncyn	nm	grasshopper	``220930	_^ymgripiat-bryfed
+gwaun-wair-sioncyn	nm	meadow grasshopper	``220930	_^ymgripiat-bryfed
+gwedd-newidiad	nm	metamorphosis	``220930	_^ymgripiat-bryfed
+gweddïol-fantis	nm	praying mantis	``220930	_^ymgripiat-bryfed
+gwellt-garw-gopyn	nm	harvestman	``220930	_^ymgripiat-bryfed
+gwellt-sioncyn	nm	grasshopper	``220930	_^ymgripiat-bryfed
+gwerdd-gleren	nf	greenfly	``220930	_^ymgripiat-bryfed
+gwiddonyn	nm	mite	``220930	_^ymgripiat-bryfed
+gwiddonyn	nm	weevil	``220930	_^ymgripiat-bryfed
+gwlith-falwen	nf	slug	``220930	_^ymgripiat-bryfed
+gwlithen	nf	slug	``220930	_^ymgripiat-bryfed
+gwyn-forgrugyn	nm	termite	``220930	_^ymgripiat-bryfed
+gwyrdd-deigr-chwilen	nf	green tiger beetle	``220930	_^ymgripiat-bryfed
+gwyrdd-gricsyn	nm	green cricket	``220930	_^ymgripiat-bryfed
+gwyrdd-ysgwyt-bryfyn	nm	green shield bug	``220930	_^ymgripiat-bryfed
+hagab	nm	grasshopper	``220930	_^ymgripiat-bryfed
+heglog-gopyn	nm	daddy long legs	``220930	_^ymgripiat-bryfed
+heglog-gorryn	nm	daddy long legs	``220930	_^ymgripiat-bryfed
+hirgron-chwilen	nf	timberman beetle	``220930	_^ymgripiat-bryfed
+llaeth-lys-bryfyn	nm	milkweed bug	``220930	_^ymgripiat-bryfed
+llau	nm	lice	``220930	_^ymgripiat-bryfed
+llefn-neidr	nm	smooth snake	``220930	_^ymgripiat-bryfed
+lleuen	nf	louse	``220930	_^ymgripiat-bryfed
+llfyn-ddŵr-fadfall	nm	smooth newt	``220930	_^ymgripiat-bryfed
+llindysyn	nm	caterpillar	``220930	_^ymgripiat-bryfed
+lludw-grachen	nf	woodlouse	``220930	_^ymgripiat-bryfed
+lludw-wrachen	nf	woodlouse	``220930	_^ymgripiat-bryfed
+lluyg	nm	mite	``220930	_^ymgripiat-bryfed
+llwch-euddonyn	nm	dust mite	``220930	_^ymgripiat-bryfed
+llwch-widdonyn	nm	dust mite	``220930	_^ymgripiat-bryfed
+llwyt-wlithen	nf	grey slug	``220930	_^ymgripiat-bryfed
+llyfant-rifft	nm	frogspawn	``220930	_^ymgripiat-bryfed
+llyffant-sboncyn	nm	frog-hopper	``220930	_^ymgripiat-bryfed
+llyffant-sboncyn	nm	spittle-bug	``220930	_^ymgripiat-bryfed
+llyfn-ddŵr-eneugoeg	nf	smooth newt	``220930	_^ymgripiat-bryfed
+llys-leuen	nf	aphid	``220930	_^ymgripiat-bryfed
+llysieuyn-sboncyn	nm	planthopper	``220930	_^ymgripiat-bryfed
+lwcus-gopyn	nm	money spider	``220930	_^ymgripiat-bryfed
+macai	nm	grub	``220930	_^ymgripiat-bryfed
+macai	nm	larva	``220930	_^ymgripiat-bryfed
+macai	nm	maggot	``220930	_^ymgripiat-bryfed
+maceiad	nm	grub	``220930	_^ymgripiat-bryfed
+maceiad	nm	larva	``220930	_^ymgripiat-bryfed
+maceiad	nm	maggot	``220930	_^ymgripiat-bryfed
+maes-redyn-geiliog	nm	field grasshopper	``220930	_^ymgripiat-bryfed
+maes-wair-sioncyn	nm	field grasshopper	``220930	_^ymgripiat-bryfed
+mai-chwilen	nf	cockchafer	``220930	_^ymgripiat-bryfed
+mantis	nm	mantis	``220930	_^ymgripiat-bryfed
+mawr-blymio-chwilen	nf	great diving beetle	``220930	_^ymgripiat-bryfed
+mawr-gricsyn	nm	cicada	``220930	_^ymgripiat-bryfed
+mawr-heliwr-gopyn	nm	green huntsman spider	``220930	_^ymgripiat-bryfed
+mawr-wyrdd-lwyn-gricsyn	nm	great green bush cricket	``220930	_^ymgripiat-bryfed
+medelwr-gorryn	nm	harvestman	``220930	_^ymgripiat-bryfed
+melen-wlith-falwen	nf	yellow slug	``220930	_^ymgripiat-bryfed
+melen-wlithen	nf	yellow slug	``220930	_^ymgripiat-bryfed
+morgrugyn	nm	ant	``220930	_^ymgripiat-bryfed
+morionen	nf	ant	``220930	_^ymgripiat-bryfed
+mwd-neidiwr	nm	mudskipper	``220930	_^ymgripiat-bryfed
+mwydyn	nm	earthworm	``220930	_^ymgripiat-bryfed
+myw	nm	ant	``220930	_^ymgripiat-bryfed
+mywionyn	nm	ant	``220930	_^ymgripiat-bryfed
+naid-gopyn	nm	jumping spider	``220930	_^ymgripiat-bryfed
+nant-ferdysen	nf	freshwater shrimp	``220930	_^ymgripiat-bryfed
+ogof-gorryn	nm	cave spider	``220930	_^ymgripiat-bryfed
+pedwar-frych-gronnell-gopyn	nm	four spot orb spider	``220930	_^ymgripiat-bryfed
+penbwl	nm	tadpole	``220930	_^ymgripiat-bryfed
+penbyliad	nm	tadpole	``220930	_^ymgripiat-bryfed
+poerllyd-gopyn	nm	spitting spider	``220930	_^ymgripiat-bryfed
+pridd-chwilen	nf	sexton burying beetle	``220930	_^ymgripiat-bryfed
+pryf-wyau	nm	insect egg	``220930	_^ymgripiat-bryfed
+pwll-lyffant	nm	pool frog	``220930	_^ymgripiat-bryfed
+pwpa	nm	pupa	``220930	_^ymgripiat-bryfed
+pycsen	nf	bedbug	``220930	_^ymgripiat-bryfed
+rhedegog-granc-gopyn	nm	running crab spider	``220930	_^ymgripiat-bryfed
+rhedyn-geiliog	nm	katydid	``220930	_^ymgripiat-bryfed
+rhesen-adeinilwyd-wair-sioncyn	nm	stripe-winged grasshopper	``220930	_^ymgripiat-bryfed
+rhosod-chwilen	nf	rose chafer beetle	``220930	_^ymgripiat-bryfed
+rhwmp-chwilen	nf	borer	``220930	_^ymgripiat-bryfed
+roesel-lwyn-gricsyn	nm	roesel's bush cricket	``220930	_^ymgripiat-bryfed
+sbonc-gynffon	nm	springtail	``220930	_^ymgripiat-bryfed
+sbonc-lys-leuen	nf	spittle-bug	``220930	_^ymgripiat-bryfed
+sbonc-lysleuen	nf	frog-hopper	``220930	_^ymgripiat-bryfed
+sebra-gopyn	nm	zebra spider	``220930	_^ymgripiat-bryfed
+seler-gopyn	nm	cellar spider	``220930	_^ymgripiat-bryfed
+siac y siwmper	nf	grasshopper	``220930	_^ymgripiat-bryfed
+siani-flewog-lindysyn	nm	woolly bear caterpillar	``220930	_^ymgripiat-bryfed
+sidan-bryf	nm	silkworm	``220930	_^ymgripiat-bryfed
+siligabŵd-forgrugyn	nm	southern wood ant	``220930	_^ymgripiat-bryfed
+siân y ffa	nm	ladybird	``220930	_^ymgripiat-bryfed
+suo-gopyn	nm	buzzing spider	``220930	_^ymgripiat-bryfed
+suo-gorryn	nm	buzzing spider	``220930	_^ymgripiat-bryfed
+tai-gorniog-chwilen	nf	house longhorn beetle	``220930	_^ymgripiat-bryfed
+tai-lwch-euddonyn	nm	house dust mite	``220930	_^ymgripiat-bryfed
+tai-lwch-widdonyn	nm	house dust mite	``220930	_^ymgripiat-bryfed
+tamprwydd-bryf	nm	woodlouse	``220930	_^ymgripiat-bryfed
+tarw-chwilen	nf	minotaur beetle	``220930	_^ymgripiat-bryfed
+tarw-chwilen	nf	stag beetle	``220930	_^ymgripiat-bryfed
+teigr-chwilen	nf	tiger beetle	``220930	_^ymgripiat-bryfed
+teiliwr-gorryn	nm	harvestman	``220930	_^ymgripiat-bryfed
+traws-ffurfeddiad	nm	metamorphosis	``220930	_^ymgripiat-bryfed
+trwyddew-chwilen	nf	borer	``220930	_^ymgripiat-bryfed
+tywyllwch-chwilen	nf	darkling beetle	``220930	_^ymgripiat-bryfed
+tân-forgrugyn	nm	fire ant	``220930	_^ymgripiat-bryfed
+tân-forionen	nf	fire ant	``220930	_^ymgripiat-bryfed
+tân-fywionyn	nm	fire ant	``220930	_^ymgripiat-bryfed
+wyau pryf	nm	insect egg	``220930	_^ymgripiat-bryfed
+ymgripiat-ddrewbryf 	nm	bug crawling	``220930	_^ymgripiat-bryfed
+ymgripiat-ddrewbryf	nm	bug crawling	``220930	_^ymgripiat-bryfed
+ymgripiat-hwdwg 	nm	bug crawling	``220930	_^ymgripiat-bryfed
+ymgripiat-hwdwg	nm	bug crawling	``220930	_^ymgripiat-bryfed
+ŷd-wyfyn	nm	weevil	``220930	_^ymgripiat-bryfed

@@ -1,0 +1,78 @@
+//==============================================
+  sort($entries_array);
+  // os ydy angen i arddangos y lluniau
+  //$entries_array = array_reverse($entries_array);
+
+$llGeirfa="";
+$llIsdeitlau="";
+
+  foreach($entries_array as $lentry){
+    $dcyfmsr1a=explode("!!!", $lentry);
+    $llcyfmsr1=$dcyfmsr1a[0];
+    $lentry = $dcyfmsr1a[1];
+
+    $count1++;
+    echo '<div style="xxborder:2px solid blue;xxbackground-color:white;display:inline;" xxonmouseover="highlight('.$count1.');" id="xxdv'.$count1.'" >
+<!-- ['.$lentry.']  -->
+<table id="dv'.$count1.'" border=0 cellspacing=0 cellpadding=0 style="xxborder:2px solid blue;xxbackground-color:white; display:inline;margin:0px;padding:0px;" >
+<tr><td style="xxfont-style:italic;font-size:75%;border-top:1px dashed #aaa; xxbackground-color:white; text-align:center;margin:20px;padding:0px;" id="td1'.$count1.'" >'.substr($lhanfodrhenc1,1) .'<br/>'.substr($lhanfodrhenc0,1) .'</td></tr>
+<tr><td style="margin:0px;padding:0px;width:100px;margin:0px;padding:0px;"><img id="img'.$count1.'" src="'. $lentry. '" style="border-radius:10px;width:100px; margin:0px;padding:0px;" /></td></tr>
+<tr><td style="font-weight:bold;margin:0px;padding:0px;xxbackground-color:white;max-height:1px;text-align:center;font-size:'. GeirfaWefan::maintLlyther($llcyfmsr1)   .';" id="td2'.$count1.'">'. $llcyfmsr1 .'</td></tr>
+</table>
+</div> ';
+    $d2a = explode("^^", basename($dcyfmsr1a[1]) );
+    $llFath1=$llFath;
+    if($llFath == "_enwau"){
+      $llFath1="nm";
+      if(preg_match("/e([a-z]{1,1})$/", $llcyfmsr1)){
+        $llFath1="nf";
+      }
+    }else if($llFath == "adferfau"){
+    }else if($llFath == "berfau"){
+    }else if($llFath == "ansoddeiriau"){
+    }//dif
+
+    //$cy1a = 3 + ($count1 * 5); //ehebocbryfed & clugiaid
+    //$cy1a = -1 + ($count1 * 5); //corff
+    //$cy1a = 1 + ($count1 * 5); //ffrwythau
+    $cy1a = 3 + ($count1 * 5); 
+    $cy1b = 4 + $cy1a;
+    $llOriau    = 0;
+    $llFunudau  = 0;
+    $llEiliadau = 0;
+    $llOriau1   = 0;
+    $llFunudau1 = 0;
+    $llEiliadau1= 0;
+
+    $llEiliadau = $cy1a % 60;
+    if($cy1a >= 60)
+      $llFunudau  = floor($cy1a / 60);
+    if($cy1a >= 60)
+      $llOriau    = floor($llFunudau / 60);
+    $llEiliadau1 = $cy1b % 60;
+    if($cy1b >= 60)
+      $llFunudau1  = floor($cy1b / 60);
+    if($cy1b >= 60)
+      $llOriau1    = floor($llFunudau1 / 60);
+   
+    $d2a[0] = preg_replace("/_/", "", $d2a[0]);
+
+    $llIsdeitlau .= 
+         $count1 ."\n".
+         sprintf("%02d",$llOriau) .":". sprintf("%02d",$llFunudau) .":". sprintf("%02d", $llEiliadau) .",000 --> ".
+         sprintf("%02d",$llOriau1) .":". sprintf("%02d",$llFunudau1) .":". sprintf("%02d", $llEiliadau1) .",990\n".
+         "". $d2a[0]."\n\n"
+         ;
+    $llGeirfa .= $llcyfmsr1 . "\t". $llFath1 ."\t". $d2a[0]."\t``".$llDyddiad. "\t". $lhanfodrhenc0."\n";
+    //$llGeirfa .= $lhanfodrhenc0. "___". basename($dcyfmsr1a[1]). "\n";
+  }//endforeach
+  if(!file_exists("./isdeitlau")) mkdir("./isdeitlau", 0755);
+  file_put_contents("./isdeitlau/newydd-eirfa_".$lhanfodrhenc0 ."_isdeitl_EN.srt.txt", $llIsdeitlau);
+  if(!file_exists("./geirfa")) mkdir("./geirfa", 0755);
+  file_put_contents("./geirfa/newydd-eirfa_".$lhanfodrhenc0 .".txt", $llGeirfa);
+
+/*
+  echo '
+<button style="background-color:white; color:white; border:none; " onclick="dechreu(this);"> &emsp; </button>
+  ';
+*/
